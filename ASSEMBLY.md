@@ -4,6 +4,8 @@
 
 ## 1. Mounting Components
 
+![DIY roVAD Smart Switch Kit](images/enclosureDimension.png)
+
 1. Secure the **NodeMCU** on the side wall of the enclosure using M3 screws.
 2. Secure the **4-channel relay board** on the bottom of the enclosure.
 3. Ensure both boards are firmly fixed — usually two screws per board are sufficient.
@@ -21,6 +23,8 @@ Use Dupont jumper wires:
 - VCC → VCC
 - GND → GND
 
+![DIY roVAD Smart Switch Kit](images/x3.png)
+
 ---
 
 ## 3. LED Connection (optional)
@@ -30,6 +34,10 @@ Use Dupont jumper wires:
 - Negative leg -- GND
 - Optional: connect LED for mode indication (D5 for AP, D6 for Wi-Fi).
 
+![DIY roVAD Smart Switch Kit](images/c6.png)
+
+![DIY roVAD Smart Switch Kit](images/a1.png)
+
 ---
 
 ## 4. Closing Enclosure
@@ -37,6 +45,8 @@ Use Dupont jumper wires:
 1. Place the lid onto the box.
 2. Secure with M3 screws.
 3. Connect power via **micro USB**.
+
+![DIY roVAD Smart Switch Kit](images/a9.png)
 
 ---
 
@@ -54,6 +64,8 @@ No Wi-Fi or internet required — the kit works locally.
 6. Tap buttons to toggle appliances ON/OFF.
 
 🎉 Congratulations! Your kit is operational in AP Mode.
+
+![DIY roVAD Smart Switch Kit](images/ap1.png)
 
 ⚠️ **Safety Note:** 
 When connecting household appliances (110–250V AC), take proper precautions. Assembly and usage are at your own responsibility.
@@ -84,6 +96,8 @@ Allows remote control via an MQTT server.
 
 🎉 Congratulations! Your kit is now online and ready to receive remote commands.
 
+![DIY roVAD Smart Switch Kit](images/wifi.png)
+
 ⚠️ **Safety Note:** 
 When connecting household appliances (110–250V AC), take proper precautions. Assembly and usage are at your own responsibility.
 
@@ -96,5 +110,7 @@ When connecting household appliances (110–250V AC), take proper precautions. A
 - Enable/disable timers in the app.
 - Automatic ON/OFF scheduling allows appliances to operate without manual intervention.
 - Sending proper command you can list all your set timers anytime
+
+![DIY roVAD Smart Switch Kit](images/app2.png)
 
 ---
