@@ -9,6 +9,8 @@ It allows remote or local control of appliances such as lights, LED strips, gara
 
 ⚠️ **Note:** This is a DIY kit, not a finished consumer product. Assembly is required, and safety precautions must be followed when connecting to mains electricity. 
 
+![DIY roVAD Smart Switch Kit - Enclosure ](images/b1.png)
+
 ## Kit Specifications
 
 - **Enclosure (Box + Lid)**
@@ -31,6 +33,8 @@ It allows remote or local control of appliances such as lights, LED strips, gara
   - Humidity ≤ 90%  
   - Temperature: 0°C to 40°C
 - **Mobile App:** roVad Smart
+
+![DIY roVAD Smart Switch Kit - components](images/roVad_4CH-Kit.png)
 
 ## Features
 
