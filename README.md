@@ -1,4 +1,4 @@
-# DIY roVvad Smart Switch KIT - 4CH
+# DIY roVad Smart Switch KIT - 4CH
 
 *Build it. Control it. Enjoy it.*
 
